@@ -187,6 +187,7 @@ header img {
 
 .searchbar {
 	border: none;
+	font-family: inherit;
 }
 
 .bottom-footer a:hover {

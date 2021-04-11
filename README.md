@@ -15,4 +15,4 @@ Updates:
 Okay I have completed this project. What I used was html and css. I did use mdn,
 youtube, stack overflow, and a few of the dev tools to complete this project. I
 think there are some things I could improve upon; however, I am still happy
-about my progress! xD
+about my progress!! xD
